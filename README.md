@@ -2,4 +2,5 @@
 - 👀 I’m interested in web development and shooting to be the best developer possible!
 - 🌱 I’m currently creating apps in React and sharpening my JavaScript while I'm at it.
 - 💞️ I’m looking to collaborate on any project! I would love to create any intermediate-advanced javascript apps to apply what I am learning or if you would like we could join together on some I am already working on!
+- Currently I am prepping to make my own functional social media app project. My stack will be MongoDB, React.js, Express, and Node.js(MERN). Contact me below if interested and let me know you are from my GitHub!
 - 📫 How to reach me: On my [LinkedIn](https://www.linkedin.com/in/trevor-marshall-0b17121b2/).
