@@ -1,6 +1,6 @@
 ![Trevor Kicking and doing martial arts](https://github.com/Trev-Marshall/Trev-Marshall/blob/main/kickin_dude.JPEG?raw=True)
 
-# Trevor Marshall (Full Stack Developer)
+# Trevor Marshall \**Full Stack Dev*\*
 [LinkedIn](https://www.linkedin.com/in/trevor-marshall-0b17121b2/) ✅
 ## Coding and flipping like it's no one's business😪
 For that past year, at the time of typing this, I have been studying web development without holding back! Within that year I have landed my first clients outside of my own network and created lasting connections within my current internship.
